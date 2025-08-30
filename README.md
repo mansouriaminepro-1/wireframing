@@ -2,7 +2,7 @@
 
 Wireframing is a **visual blueprint** that outlines the structure and layout of a digital product, such as a website or mobile application. It is an essential step in the **UI/UX design process** because it focuses on the arrangement of elements and user flows without the distraction of colors, styles, or detailed graphics.
 
-## Importance of Wireframing
+### Importance of Wireframing
 - **Clarifies ideas**: Helps translate concepts into visual form early in the process.  
 - **Improves collaboration**: Provides a shared reference point for designers, developers, and stakeholders.  
 - **Saves time and cost**: Identifies usability issues before development begins.  
