@@ -91,23 +91,23 @@ Several tools are commonly used to create wireframes, ranging from simple sketch
 
 Wireframing is more than a design step — it’s a vital part of the software development process. It helps teams validate ideas, align on requirements, and reduce risks before coding begins.
 
-## Clarifies Requirements
+### Clarifies Requirements
 Wireframes translate abstract requirements into a visual form.  
 **Example:** A “Book Now” button wireframe helps developers understand what needs to be built and prevents misinterpretation of features.
 
-## Improves Team Communication
+### Improves Team Communication
 Wireframes serve as a shared reference point between designers, developers, and product managers.  
 **Example:** Showing a “Book Now” button in the wireframe makes the user flow clear to both the developer who codes it and the tester who verifies it.
 
-## Guides the Design & Development Process
+### Guides the Design & Development Process
 Wireframes define layout structure, navigation, content placement, and functionality early on.  
 **Example:** A wireframe showing the checkout form alongside property details helps the team prioritize UI elements correctly.
 
-## Reduces Costly Rework
+### Reduces Costly Rework
 Catching usability issues in wireframes is faster and cheaper than fixing them in code.  
 **Example:** Identifying a missing “Cancel Booking” option in the wireframe stage avoids redesigning backend logic later.
 
-## Supports Iteration and Feedback
+### Supports Iteration and Feedback
 Wireframes are quick to adjust, making it easier to explore multiple design options.  
 - Lo-Fi wireframes are ideal for brainstorming.  
 - Hi-Fi wireframes help with usability testing and developer handoff.
