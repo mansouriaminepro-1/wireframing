@@ -1,5 +1,5 @@
+# Wireframing
 # Introduction to Wireframing
-
 Wireframing is a **visual blueprint** that outlines the structure and layout of a digital product, such as a website or mobile application. It is an essential step in the **UI/UX design process** because it focuses on the arrangement of elements and user flows without the distraction of colors, styles, or detailed graphics.
 
 ### Importance of Wireframing
