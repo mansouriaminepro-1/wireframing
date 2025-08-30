@@ -14,19 +14,19 @@ Wireframing ensures that the team aligns on the functionality and user experienc
 
 Wireframes are composed of several fundamental elements that define the structure and usability of a digital product. Each element plays a crucial role in shaping how users interact with the interface.
 
-## 1. Layout Structure
+### 1. Layout Structure
 The layout determines the arrangement of sections and components on the screen. It creates visual hierarchy and guides the user’s attention.  
 **Example:** On a booking site homepage, the layout might include a search bar at the top, a central area showing available rooms or services, and a sidebar for filters like date, price range, and location.
 
-## 2. Navigation
+### 2. Navigation
 Navigation defines how users move between different screens or sections of the product. Clear navigation ensures smooth user flow and accessibility.  
 **Example:** A navigation menu with links to *“Home,” “My Bookings,” “Payments,”* and *“Support”* allows users to move between sections easily.
 
-## 3. Content Placement
+### 3. Content Placement
 Content placement organizes text, images, buttons, and forms within the layout. Effective placement improves readability and usability.  
 **Example:** On the booking details page, the main section shows the booking form with fields like *check-in/check-out dates* and *number of guests,* while supporting details such as room photos and amenities are displayed on the right-hand side.
 
-## 4. Functionality
+### 4. Functionality
 Functionality represents how interactive elements behave within the design, enabling users to complete actions.  
 **Example:** A *“Confirm Booking”* button on the checkout page triggers the reservation process and generates a confirmation email for the user.
 
@@ -34,7 +34,7 @@ Functionality represents how interactive elements behave within the design, enab
 
 Wireframes are essential tools in the design process, serving as blueprints for digital products. They can be categorized based on their level of detail and fidelity.
 
-## Low-Fidelity Wireframes
+### Low-Fidelity Wireframes
 Low-fidelity wireframes are basic, often hand-drawn sketches that focus on layout and functionality without detailed visuals.
 
 - **Purpose:** Quickly communicate structure and user flow.  
