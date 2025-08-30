@@ -42,7 +42,7 @@ Low-fidelity wireframes are basic, often hand-drawn sketches that focus on layou
 - **Use Case:** Early stages of design to explore ideas and gather feedback.  
 - **Example:** A booking site homepage sketched with a search bar, available rooms list, and sidebar filters.
 
-## High-Fidelity Wireframes
+### High-Fidelity Wireframes
 High-fidelity wireframes are detailed representations that closely resemble the final product in terms of layout, design, and interactivity.
 
 - **Purpose:** Provide a realistic preview of the final product.  
@@ -72,7 +72,7 @@ Several tools are commonly used to create wireframes, ranging from simple sketch
 - **Sketch** – A vector-based design tool popular for UI/UX design on macOS.  
 - **InVision** – Useful for prototyping and collaborative feedback.  
 
-## Figma: Recommended Wireframing Tool
+### Figma: Recommended Wireframing Tool
 
 **Figma** is a cloud-based design tool widely used for wireframing, UI/UX design, and prototyping. Its features include:
 
@@ -91,19 +91,19 @@ Several tools are commonly used to create wireframes, ranging from simple sketch
 
 Wireframing offers numerous advantages in the software development process by providing a clear visual blueprint of the product before full-scale development begins.
 
-## 1. Guides the Design Process
+### 1. Guides the Design Process
 Wireframes help designers and developers focus on structure and functionality first, rather than visual styling. This ensures that user flows, layouts, and key interactions are well thought out before moving to high-fidelity design.  
 **Example:** On a booking management site, wireframes can map the process from searching available rooms, selecting dates, to confirming a reservation, ensuring a logical and smooth flow for the user.
 
-## 2. Facilitates Communication Among Team Members
+### 2. Facilitates Communication Among Team Members
 Wireframes serve as a shared reference for designers, developers, and stakeholders, reducing misunderstandings and aligning expectations.  
 **Example:** The placement of buttons, search fields, and content areas on a booking page can be reviewed and approved by both developers and project managers before any coding starts.
 
-## 3. Identifies Usability Issues Early
+### 3. Identifies Usability Issues Early
 By visualizing the interface and user interactions, wireframes allow the team to detect potential usability problems early, saving time and cost.  
 **Example:** A wireframe may show that a booking form has too many steps, prompting the team to simplify the flow before implementation.
 
-## 4. Supports Iterative Development
+### 4. Supports Iterative Development
 Wireframes make it easy to make changes quickly, allowing iterative improvements based on feedback from stakeholders or users.  
 **Example:** Adjusting the layout of a booking details page or reordering filter options can be done in minutes in a wireframe, avoiding expensive redesigns during development.
 
@@ -120,14 +120,14 @@ In a booking management system, the design team initially sketched a wireframe f
 - **Problem 3: Missing Feedback**  
   There was no confirmation or indication when users selected dates or added extras, potentially confusing users.
 
-## How Issues Were Resolved
+### How Issues Were Resolved
 - The booking form was broken into a **step-by-step process** with progress indicators.  
 - Navigation was updated to include **breadcrumbs** and clear “Back to Results” buttons.  
 - Interactive elements were designed to provide **instant visual feedback** when users made selections.  
 
-## Impact on the Final Product
+### Impact on the Final Product
 By addressing these issues at the wireframe stage, the development team avoided costly redesigns and improved the overall user experience. The final product featured a smoother booking flow, higher completion rates, and fewer user errors.
 
-## Conclusion
+### Conclusion
 Wireframing plays a critical role in software design by enabling teams to **visualize interfaces, identify usability problems early, and communicate design intent effectively**. This process ensures that the final product is user-friendly, functional, and aligned with stakeholder expectations.
 
